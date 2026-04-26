@@ -275,13 +275,11 @@ Purpose:
 - Select source preset and predefined test query.
 - Optionally pass local GGUF path in ask request.
 
-Prototype screenshot:
+Prototype screenshot (versioned in-repo so GitHub and local renderers can display it):
 
-![Prototype app screenshot](C:/Users/finadmin/.cursor/projects/c-temp-capstone2/assets/c__Users_finadmin_AppData_Roaming_Cursor_User_workspaceStorage_e283966b997c66fe5b72fdf730836cf3_images_image-f3194e1b-2d1d-4972-9003-29d812d91278.png)
+![SafeAI Pipeline v2 — API client (WPF prototype)](docs/images/prototype-pipeline-v2-wpf.png)
 
-If your Markdown renderer cannot load the absolute path above, open the image directly at:
-
-- `C:\Users\finadmin\.cursor\projects\c-temp-capstone2\assets\c__Users_finadmin_AppData_Roaming_Cursor_User_workspaceStorage_e283966b997c66fe5b72fdf730836cf3_images_image-f3194e1b-2d1d-4972-9003-29d812d91278.png`
+*Figure: WPF client — API base URL, preset, KB reuse, test query, local GGUF path, and JSON result from `POST /ask`.*
 
 ---
 
