@@ -1,0 +1,96 @@
+"Clinical question/ PICO
+Population: Adults and children at increased risk of malaria infection relative to the general population living in areas of very
+low to low transmission or post-elimination settings
+Intervention: Targeted drug administration (TDA)
+Comparator: no TDA
+Summary
+No studies from areas approaching elimination were identified in the systematic review (Tusell et al unpublished evidence). Two
+studies conducted in post-elimination settings identified imported infections in migrant workers with onward transmission to the
+local population. In both studies, the migrant workers were provided with a full therapeutic dose of chloroquine and 14 days of
+primaquine in a single round (the study from Greece conducted one round per year for three years). No additional infections
+among the migrant workers or the community were identified for five months (Sri Lanka) or two years (Greece) after the last round
+of TDA. Adverse events were monitored in both studies: a single serious case of haemolysis was identified in the study from
+Greece due to an incorrect G6PD test result; the remaining adverse events were relatively minor side effects.",Col1,Col2,Col3,Col4,Col5
+"Outcome
+Timeframe","Study results and
+measurements","Comparator
+no TDA","Intervention
+Targeted drug
+administration (TDA)","Certainty of the
+evidence
+(Quality of evidence)",Summary
+"Prevalence of
+malaria
+infection","Relative risk 0.85
+(CI 95% 0.73 — 1)
+Based on data from 8,922
+participants in 1 studies.
+(Randomized controlled)","219
+per 1000
+Difference:","186
+per 1000
+33 fewer per 1000
+( CI 95% 59 fewer
+— 0 more )",High,"TDA results in little to no
+difference in the
+prevalence of malaria"
+"Serious Adverse
+Events (cRCTs)","Based on data from
+10,079 participants in 1
+studies. (Randomized
+controlled)","0
+per 1000","0
+per 1000","Very low
+Due to very serious
+risk of bias, Due to
+very serious
+imprecision 1","The evidence is very
+uncertain about the effect
+of TDA on serious
+adverse events"
+"Serious adverse
+events (cRCTs)","Relative risk 4.19
+(CI 95% 1.43 — 12.31)
+Based on data from 4,916
+participants in 1 studies.
+(Randomized controlled)","2
+per 1000
+Difference:","7
+per 1000
+6 more per 1000
+( CI 95% 1 more —
+23 more )","Low
+Due to very serious
+imprecision 2","TDA may result in little to
+no difference in serious
+adverse events"
+"Serious adverse
+events (NRS)","Based on data from 31
+participants in 1 studies.
+(Observational (non-
+randomized))","0
+per 1000","0
+per 1000","Very low
+Due to serious risk
+of bias, Due to
+serious imprecision
+3","The evidence is very
+uncertain about the effect
+of TDA on serious
+adverse events"
+"Adverse events
+(cRCTs)","Relative risk 1.48
+(CI 95% 0.12 — 18.02)
+Based on data from 4,916
+participants in 1 studies.
+(Randomized controlled)","19
+per 1000
+Difference:","28
+per 1000
+9 more per 1000
+( CI 95% 17 fewer
+— 325 more )","Low
+Due to very serious
+imprecision 4","TDA may have little to no
+effect on adverse events"
+,,,,,

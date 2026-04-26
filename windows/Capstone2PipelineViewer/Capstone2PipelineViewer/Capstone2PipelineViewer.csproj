@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <RootNamespace>Capstone2PipelineViewer</RootNamespace>
+    <AssemblyName>Capstone2PipelineViewer</AssemblyName>
+    <ApplicationTitle>SafeAI Pipeline v2 (capstone2)</ApplicationTitle>
+  </PropertyGroup>
+
+</Project>

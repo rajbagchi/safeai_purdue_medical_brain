@@ -1,0 +1,73 @@
+"Clinical question/ PICO
+Population: Children aged < 5 years with severe malaria (rural settings in Africa and Asia where parenteral treatment is
+not available)
+Intervention: Rectal artesunate plus referral for definitive treatment
+Comparator: Placebo plus referral for definitive treatment",Col1,Col2,Col3,Col4
+"Outcome
+Timeframe",Study results and measurements,"Comparator
+Placebo","Intervention
+Rectal artesunate","Certainty of the
+evidence
+(Quality of evidence)"
+"All-cause mortality
+(in Asia)
+7-30 days","Relative risk 0.44
+(CI 95% 0.23 — 0.82)
+Based on data from 2,010
+participants in 1 studies.
+(Randomized controlled)","31
+per 1000
+Difference:","14
+per 1000
+17 fewer per 1000
+( CI 95% 24 fewer — 6
+fewer )","Low
+Due to serious
+inconsistency and
+serious imprecision 1"
+"All-cause mortality
+(in Africa)
+7-30 days","Relative risk 0.81
+(CI 95% 0.63 — 1.04)
+Based on data from 6,040
+participants in 1 studies.
+(Randomized controlled)","44
+per 1000
+Difference:","36
+per 1000
+8 fewer per 1000
+( CI 95% 16 fewer — 2
+more )","Low
+Due to serious
+inconsistency and
+serious imprecision 2"
+"All-cause mortality
+(overall)
+7-30 days","Relative risk 0.74
+(CI 95% 0.59 — 0.93)
+Based on data from 8,050
+participants in 1 studies.
+(Randomized controlled)","41
+per 1000
+Difference:","30
+per 1000
+11 fewer per 1000
+( CI 95% 17 fewer — 3
+fewer )","Moderate
+Due to serious
+inconsistency 3"
+"1. Risk of Bias: no serious. Allocation was concealed, and trial participants and staff were blinded to treatment allocation.
+Inconsistency: serious. In Asia, older children and adults were also randomized to artesunate or placebo, and mortality was
+significantly higher in those given rectal artesunate; the cause is unclear. Indirectness: no serious. This trial was conducted
+in community settings in Bangladesh, Ghana and the United Republic of Tanzania. Imprecision: serious. The number of
+events was low.
+2. Risk of Bias: no serious. Allocation was concealed, and trial participants and staff were blinded to treatment allocation.
+Inconsistency: serious. In Asia, older children and adults were also randomized to artesunate or placebo, and mortality was
+significantly higher in those given rectal artesunate; the cause is unclear. Indirectness: no serious. This trial was conducted
+in community settings in Bangladesh, Ghana and the United Republic of Tanzania. Imprecision: serious. The 95%
+confidence interval is wide and includes no difference.
+3. Risk of Bias: no serious. Allocation was concealed, and trial participants and staff were blinded to treatment allocation.
+Inconsistency: serious. In Asia, older children and adults were also randomized to artesunate or placebo, and mortality was
+significantly higher in those given rectal artesunate; the cause is unclear. Indirectness: no serious. This trial was conducted
+in community settings in Bangladesh, Ghana and the United Republic of Tanzania. Imprecision: no serious. The result is
+statistically significant, and the study had adequate power to detect this effect.",,,,

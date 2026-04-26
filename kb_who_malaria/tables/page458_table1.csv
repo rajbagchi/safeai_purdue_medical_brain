@@ -1,0 +1,62 @@
+"Clinical question/ PICO
+Population: Children with severe malaria (malaria-endemic countries)
+Intervention: Intramuscular artemether
+Comparator: Intravenous or intramuscular quinine",Col1,Col2,Col3,Col4
+"Outcome
+Timeframe",Study results and measurements,"Comparator
+Quinine","Intervention
+Artemether","Certainty of the
+evidence
+(Quality of evidence)"
+Death,"Relative risk 0.96
+(CI 95% 0.76 — 1.2)
+Based on data from 1,447
+participants in 12 studies.
+(Randomized controlled)","170
+per 1000
+Difference:","163
+per 1000
+7 fewer per 1000
+( CI 95% 41 fewer —
+34 more )","Moderate
+Due to serious
+imprecision 1"
+"Neurological
+sequelae at
+discharge","Relative risk 0.84
+(CI 95% 0.66 — 1.07)
+Based on data from 968
+participants in 7 studies.
+(Randomized controlled)","220
+per 1000
+Difference:","185
+per 1000
+35 fewer per 1000
+( CI 95% 75 fewer —
+15 more )","Low
+Due to very serious
+imprecision 2"
+"Coma resolution
+time","Based on data from 358
+participants in 6 studies.
+(Randomized controlled)","Quinine: The mean time in control groups ranged
+from 17.4 to 42.4 h. Artemether: The mean time
+was 5.45 h shorter in the intervention groups
+(7.90 to 3.00 h shorter).",,"Low
+Due to very serious risk
+of bias 3"
+"Parasite clearance
+time","Based on data from 420
+participants in 7 studies.
+(Randomized controlled)","Quinine: The mean time in control groups ranged
+from 22.4 to 61.3 h. Artemether: The mean time
+was 9.03 h shorter in the intervention groups
+(11.43 to 6.63 h shorter).",,"Moderate
+Due to serious
+inconsistency 4"
+"Fever clearance
+time","Based on data from 457
+participants in 8 studies.","Quinine: The mean time in control groups ranged
+from 18 to 61 h. Artemether: The mean time was",,"Low
+Due to serious risk of"
+,,,,

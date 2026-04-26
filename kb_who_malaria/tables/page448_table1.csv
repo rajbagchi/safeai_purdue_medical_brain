@@ -1,0 +1,144 @@
+Col0,Col1,Col2,Col3,Col4,Col5,Col6,Col7,Col8,Col9,Col10,Col11,Col12,Col13,Col14,Col15
+70% AMM,11,,6507,,886,,"73.6
+(58.1,84.9)",,"93.6
+(88.8,96.5)",,"TP=37
+(29, 42)
+FP=61
+(33, 106)
+FN=13
+(8, 21)
+TN=889
+(844,917)",,"TP=74
+(58, 85)
+FP=58
+(32,101)
+FN=26
+(15, 42)
+TN=842
+(799,869)",,"TP=147
+(116, 170)
+FP=51
+(28, 90)
+FN=53
+(30, 84)
+TN=749
+(710,772)"
+"30%-70% AMM,
+females",11,,3185,,238,,"45.5
+(26.5,65.9) †",,"92.8
+(87.0,96.1)",,"TP=23
+(13, 33)
+FP=68
+(37,123)
+FN=27
+(17, 37)
+TN=882
+(826,913)",,"TP=46
+(27, 66)
+FP=65
+(35,117)
+FN=54
+(34, 73)
+TN=835
+(783,865)",,"TP=91
+(53, 132)
+FP=58
+(31,104)
+FN=109
+(68,147)
+TN=742
+(696,769)"
+"This analysis was performed on data from Alam 2018, Aung 2023, Bancone 2018, Hamid 2018, Ley 2017, Wepelmann 2017, Adissu
+2023 Ethiopia and India, Pal 2021, Zobrist 2021 and Pal 2018.
+Where study arms were reported for both venous blood and capillary blood the arm with higher sample size was included as some patient samples were
+represented in both arms.
+Alam 2018 and Pal 2018 was classified as high risk of bias due to convenience, non-random sampling. Alam 2018 was also classified as high risk of bias in
+flow and timing domain. Regarding applicability Pal 2021 contains a set of contrived specimens.
+Data relating to Adissu 2023 Ethiopia and India were not published as standalone papers. Therefore, risk of bias analysis and applicability assessment was
+performed based on manufacturer supplied study protocols.",,,,,,,,,,,,,,,
+"TP: true positive; FP: false positive; FN: false negative; TN: true negative
+† High variability in sensitivity between studies.",,,,,,,,,,,,,,,
+"Standard G6PDby SD Biosensor – Manufacturer determined thresholds,
+as per the instructions for use",,,,,,,,,,,,,,,
+Threshold,,Studies,,Participants,Cases,"Pooled
+sensitivity
+%
+(95% CI)",,"Pooled specificity
+%
+(95% CI)",,"Numbers in a cohort
+of 1000 patients tested (95% CI)",,,,,
+,,,,,,,,,,"Prevalence
+of 5%",,"Prevalence
+of 10%",,"Prevalence
+of 20%",
+"30%
+Manufacturer",,6,,4613,204,"100.0
+(98.2,100.0) †",,"97.0
+(96.5, 97.5)",,"TP=50
+(49, 50)
+FP=29
+(24, 33)
+FN=0
+(0, 1)
+TN=922
+(917,926)",,"TP=100
+(98,100)
+FP=27
+(23, 32)
+FN=0
+(0, 2)
+TN=873
+(869,878)",,"TP=200
+(196,200)
+FP=24
+(20, 28)
+FN=0
+(0, 4)
+TN=776
+(772,780)",
+"70%
+Manufacturer",,6,,4613,430,"91.4
+(75.5, 97.4)",,"93.7
+(85.8, 97.4)",,"TP=46
+(38, 49)
+FP=60
+(25, 135)
+FN=4
+(1, 12)
+TN=890
+(815,925)",,"TP=91
+(76, 97)
+FP=57
+(23,128)
+FN=9
+(3, 24)
+TN=843
+(772,877)",,"TP=183
+(151,195)
+FP=50
+(21,114)
+FN=17
+(5, 49)
+TN=750
+(686,779)",
+"30%-70%
+Manufacturer,
+females",,6,,2209,53,"52.9
+(28.9, 75.7)†",,"94.7
+(86.3, 98.0)",,"TP=26
+(14, 38)
+FP=50
+(19,130)
+FN=24
+(12, 36)",,"TP=53
+(29, 76)
+FP=48
+(18,123)
+FN=47
+(24, 71)",,"TP=106
+(58,151)
+FP=42
+(16,110)
+FN=94
+(49, 142)",
+,,,,,,,,,,,,,,,

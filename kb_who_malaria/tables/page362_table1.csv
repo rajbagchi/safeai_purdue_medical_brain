@@ -1,0 +1,156 @@
+"Clinical question/ PICO
+Population: Post-discharge children hospitalized with severe anaemia
+Intervention: Therapeutic courses of an antimalarial medicine
+Comparator: Placebo or no intervention",Col1,Col2,Col3,Col4,Col5
+"Outcome
+Timeframe","Study results and
+measurements","Comparator
+Placebo or no
+intervention","Intervention
+Therapeutic courses
+of an antimalarial
+medicine","Certainty of the
+evidence
+(Quality of evidence)",Summary
+"All-cause
+mortality
+(intervention
+period)
+9 Critical","Relative risk 0.23
+(CI 95% 0.08 — 0.7)
+Based on data from 3,356
+participants in 3 studies.
+(Randomized controlled)
+Follow up: 2 weeks to 14
+weeks.","12
+per 1000
+Difference:","3
+per 1000
+9 fewer per 1000
+( CI 95% 11 fewer
+— 4 fewer )",High,"Therapeutic courses of an
+antimalarial medicine
+decrease all-cause
+mortality in the
+intervention period."
+"All-cause
+mortality (post-
+intervention
+period)
+9 Critical","Relative risk 1.61
+(CI 95% 0.81 — 3.19)
+Based on data from 3,352
+participants in 2 studies.
+(Randomized controlled)
+Follow up: 15 weeks to 26
+weeks.","8
+per 1000
+Difference:","13
+per 1000
+5 more per 1000
+( CI 95% 2 fewer
+— 18 more )","Moderate
+Due to serious
+imprecision 1","Therapeutic courses of an
+antimalarial medicine
+probably result in little to
+no difference in all-cause
+mortality in the post-
+intervention period."
+"All-cause
+mortality
+(intervention
+plus post-
+intervention
+period)
+8 Critical","Relative risk 0.77
+(CI 95% 0.47 — 1.28)
+Based on data from 3,387
+participants in 3 studies.
+(Randomized controlled)
+Follow up: 2 weeks to 26
+weeks.","21
+per 1000
+Difference:","16
+per 1000
+5 fewer per 1000
+( CI 95% 11 fewer
+— 6 more )","Moderate
+Due to serious
+imprecision 2","Therapeutic courses of an
+antimalarial medicine
+probably reduce all-cause
+mortality. However, the
+effect varies and it is
+possible that it makes little
+to no difference for all-
+cause mortality."
+"All-cause re-
+admission
+(intervention
+period)
+9 Critical","Relative risk 0.42
+(CI 95% 0.34 — 0.52)
+Based on data from 682
+participants in 3 studies.
+(Randomized controlled)
+Follow up: 2 weeks to 14
+weeks.","833
+per 1000
+Difference:","350
+per 1000
+483 fewer per
+1000
+( CI 95% 550 fewer
+— 400 fewer )","Moderate
+Due to serious
+inconsistency 3","Therapeutic courses of an
+antimalarial medicine
+probably decrease all-
+cause re-admission in the
+intervention period."
+"All-cause re-
+admission
+(post-
+intervention
+period)
+9 Critical","Hazard ratio 1.04
+(CI 95% 0.83 — 1.3)
+Based on data from 558
+participants in 2 studies.
+(Randomized controlled)
+Follow up: 15 weeks to 26
+weeks.","632
+per 1000
+Difference:","646
+per 1000
+14 more per 1000
+( CI 95% 68 fewer
+— 95 more )","Moderate
+Due to serious
+imprecision 4","Therapeutic courses of an
+antimalarial medicine
+probably result in little to
+no difference in all-cause
+re-admission in the post-
+intervention period."
+"Severe anaemia
+re-admission
+(intervention
+period)","Hazard ratio 0.38
+(CI 95% 0.26 — 0.56)
+Based on data from 5,481
+participants in 3 studies.
+(Randomized controlled)","44
+per 1000
+Difference:","17
+per 1000
+27 fewer per 1000
+( CI 95% 32 fewer","Moderate
+Due to serious
+inconsistency 5","Therapeutic courses of an
+antimalarial medicine
+probably decrease severe
+anaemia re-admission in
+the intervention period."
+,,,,,

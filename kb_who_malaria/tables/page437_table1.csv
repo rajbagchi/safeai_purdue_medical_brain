@@ -1,0 +1,81 @@
+"Clinical question/ PICO
+Population: Adults and children with uncomplicated malaria (malaria-endemic settings)
+Intervention: Artesunate 4 mg/kg bw once daily for 3 days plus sulfadoxine–pyrimethamine on day 1
+Comparator: Artesunate 4 mg/kg bw once daily for 1 day plus sulfadoxine–pyrimethamine on day 1",Col1,Col2,Col3,Col4,Col5
+"Outcome
+Timeframe","Study results and
+measurements","Comparator
+Artesunate 1 day
+plus sulfadoxine-
+pyrimethamine","Intervention
+Artesunate 3 days
+plus sulfadoxine-
+pyrimethamine","Certainty of the
+evidence
+(Quality of
+evidence)",Summary
+"Parasitological
+failure
+14 days","Relative risk 0.36
+(CI 95% 0.27 — 0.5)
+Based on data from
+1,276 participants in 4
+studies. (Randomized
+controlled)","19
+per 1000
+Difference:","7
+per 1000
+12 fewer per
+1000
+( CI 95% 14 fewer
+— 9 fewer )","High
+1",
+"Parasitological
+failure - PCR-
+unadjusted
+28 days","Relative risk 0.62
+(CI 95% 0.54 — 0.71)
+Based on data from
+1,260 participants in 4
+studies. (Randomized
+controlled)","47
+per 1000
+Difference:","29
+per 1000
+18 fewer per
+1000
+( CI 95% 22 fewer
+— 14 fewer )","High
+2","*Corresponding risk
+calculated is different
+than what is reported in
+WHO document*"
+"Parasitological
+failure - PCR-
+adjusted
+28 days","Relative risk 0.45
+(CI 95% 0.36 — 0.55)
+Based on data from
+1,202 participants in 4
+studies. (Randomized
+controlled)","33
+per 1000
+Difference:","15
+per 1000
+18 fewer per
+1000
+( CI 95% 21 fewer
+— 15 fewer )","High
+3","*Corresponding risk
+calculated is different
+than what is reported in
+WHO document*"
+"Gametocytaem
+ia
+7 days","Relative risk 0.74
+(CI 95% 0.58 — 0.93)
+Based on data from","20
+per 1000","15
+per 1000","High
+4",
+,,,,,

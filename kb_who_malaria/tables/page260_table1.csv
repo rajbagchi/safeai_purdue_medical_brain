@@ -1,0 +1,46 @@
+Col0,available
+antimalarial medicine,"A pharmaceutical product used in humans for the prevention, treatment or reduction of transmission of
+malaria"
+"artemisinin-based
+combination therapy","A combination of an artemisinin derivative with a longer-acting antimalarial drug that has a different mode of
+action"
+"basic reproduction
+number","The number of secondary cases that a single infection (index case) would generate in a completely
+susceptible population (referred to as R0 )"
+bioassay,"In applied entomology, experimental testing of the biological effectiveness of a treatment (e.g. infection,
+insecticide, pathogen, predator, repellent) by deliberately exposing insects to it"
+biting rate,"Average number of mosquito bites received by a host in a unit time, specified according to host and mosquito
+species (usually measured by human landing collection)"
+capture site,Site selected for periodic sampling of the mosquito population of a locality for various purposes
+"case, confirmed","Malaria case (or infection) in which the parasite has been detected in a diagnostic test, i.e. microscopy, a
+rapid diagnostic test or a molecular diagnostic test"
+"case, fever",The occurrence of fever (current or recent) in a person
+"case, imported",Malaria case or infection in which the infection was acquired outside the area in which it is diagnosed
+"case, index","A case of which the epidemiological characteristics trigger additional active case or infection detection. The
+term “index case” is also used to designate the case identified as the origin of infection of one or a number of
+introduced cases"
+"case, indigenous","A case contracted locally with no evidence of importation and no direct link to transmission from an imported
+case"
+"case, induced","A case the origin of which can be traced to a blood transfusion or other form of parenteral inoculation of the
+parasite but not to transmission by a natural mosquito-borne inoculation"
+"case, introduced","A case contracted locally, with strong epidemiological evidence linking it directly to a known imported case
+(first-generation local transmission)"
+"case, locally acquired",A case acquired locally by mosquito-borne transmission
+"case, malaria","Occurrence of malaria infection in a person in whom the presence of malaria parasites in the blood has been
+confirmed by a diagnostic test"
+"case, presumed",Case suspected of being malaria that is not confirmed by a diagnostic test
+"case, recrudescent","Malaria case attributed to the recurrence of asexual parasitaemia after antimalarial treatment, due to
+incomplete clearance of asexual parasitaemia of the same genotype(s) that caused the original illness. A
+recrudescent case must be distinguished from reinfection and relapse, in the case of P. vivax and P. ovale"
+"case, relapsing",Malaria case attributed to activation of hypnozoites of P. vivax or P. ovale acquired previously
+"case, suspected malaria","Illness suspected by a health worker to be due to malaria, generally on the basis of the presence of fever with
+or without other symptoms"
+case detection,"One of the activities of surveillance operations, involving a search for malaria cases in a community"
+"case detection, active","Detection by health workers of malaria cases at community and household levels, sometimes in population
+groups that are considered at high risk. Active case detection can consist of screening for fever followed by
+parasitological examination of all febrile patients or as parasitological examination of the target population
+without prior screening for fever"
+"case detection, passive","Detection of malaria cases among patients who, on their own initiative, visit health services for diagnosis and
+treatment, usually for a febrile illness"
+case follow-up,Periodic re-examination of patients with malaria (with or without treatment)
+case investigation,"Collection of information to allow classification of a malaria case by origin of infection, i.e. imported,"

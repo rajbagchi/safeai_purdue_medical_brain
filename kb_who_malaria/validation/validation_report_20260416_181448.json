@@ -1,0 +1,766 @@
+{
+  "structure": {
+    "stage": "structure",
+    "passed": false,
+    "issues": [
+      "Heading level skipped: 1 \u2192 3"
+    ],
+    "confidence": 0.7,
+    "suggestions": [
+      "Verify heading hierarchy manually"
+    ],
+    "metadata": {
+      "pages_extracted": 478
+    }
+  },
+  "tables": {
+    "stage": "tables",
+    "passed": true,
+    "issues": [],
+    "confidence": 1.0,
+    "suggestions": [],
+    "metadata": {
+      "tables_extracted": 200,
+      "valid_tables": 200
+    }
+  },
+  "cross": {
+    "stage": "cross_consistency",
+    "passed": false,
+    "issues": [
+      "Low cross-validation consistency: 82.7%"
+    ],
+    "confidence": 0.8272014394238952,
+    "suggestions": [
+      "Review pages with low consistency scores"
+    ],
+    "metadata": {
+      "consistency_score": 0.8272014394238952
+    }
+  },
+  "medical": {
+    "stage": "medical_content",
+    "passed": true,
+    "issues": [],
+    "confidence": 1.0,
+    "suggestions": [],
+    "metadata": {
+      "terms_found": [
+        "dose",
+        "mg",
+        "contraindication",
+        "warning",
+        "severe malaria",
+        "artemisinin",
+        "pregnancy",
+        "children",
+        "infant",
+        "emergency"
+      ],
+      "terms_missing": []
+    }
+  },
+  "human_review": {
+    "stage": "human_review",
+    "passed": false,
+    "issues": [
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Dosing accuracy critical - requires human verification",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy",
+      "Safety-critical information - verify accuracy"
+    ],
+    "confidence": 0.0,
+    "suggestions": [
+      "Prioritize flagged items for manual review"
+    ],
+    "metadata": {
+      "items_for_review": [
+        {
+          "type": "dosing_table",
+          "page": 28,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 29,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 173,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 174,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 175,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 175,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 176,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 178,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 203,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 232,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 259,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 261,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 262,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 264,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 265,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 266,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 267,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 268,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 269,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 348,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 349,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 350,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 351,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 352,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 353,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 364,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 371,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 375,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 376,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 377,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 378,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 379,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 380,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 381,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 382,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 383,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 384,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 386,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 387,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 388,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 389,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 390,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 391,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 392,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 393,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 394,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 395,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 396,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 397,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 399,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 400,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 401,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 402,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 437,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 439,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 445,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 446,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 447,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 451,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 451,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 452,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 453,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 455,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 456,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 459,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 466,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 467,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 471,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 472,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "dosing_table",
+          "page": 474,
+          "reason": "Dosing accuracy critical - requires human verification"
+        },
+        {
+          "type": "contraindication",
+          "page": 7,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 8,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 9,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 10,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 14,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 17,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 20,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 24,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 25,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 54,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 61,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 65,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 72,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 83,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 85,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 94,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 104,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 110,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 115,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 119,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 120,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 125,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 131,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 139,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 143,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 147,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 151,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 155,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 156,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 167,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 168,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 172,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 185,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 188,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 191,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 192,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 203,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 209,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 214,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 229,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 234,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 236,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 242,
+          "reason": "Safety-critical information - verify accuracy"
+        },
+        {
+          "type": "contraindication",
+          "page": 444,
+          "reason": "Safety-critical information - verify accuracy"
+        }
+      ]
+    }
+  },
+  "overall": {
+    "confidence": 0.7054402878847791,
+    "passed": false,
+    "needs_human_review": true
+  }
+}

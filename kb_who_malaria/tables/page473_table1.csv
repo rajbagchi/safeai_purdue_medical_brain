@@ -1,0 +1,111 @@
+"Clinical question/ PICO
+Population: Adults and children residing with or near a confirmed malaria case or having the same risk of acquiring infection
+as the index case in areas nearing elimination or in post-elimination settings
+Intervention: Reactive case detection and treatment
+Comparator: No RACDT
+Summary
+The systematic review identified three cRCTs in three countries of sub-Saharan Africa (Eswatini, Namibia and Zambia) (Steinhardt
+et al unpublished evidence (d)). However, all three studies were intended to evaluate the impact of RDA, and RACDT was the
+comparator. As RDA is likely to be a more effective strategy than RACDT, no conclusions could be drawn from these studies. The
+two NRSs identified from Brazil and Zambia reported on outcomes among those receiving the intervention, but did not evaluate
+impact at the community level.",Col1,Col2,Col3,Col4,Col5
+"Outcome
+Timeframe","Study results and
+measurements","Comparator
+No RACDT","Intervention
+Reactive case
+detection and
+treatment","Certainty of the
+evidence
+(Quality of evidence)",Summary
+"Prevalence of
+parasitemia","Odds ratio 1.85
+(CI 95% 0.96 — 3.57)
+Based on data from 3,926
+participants in 1 studies.
+(Randomized controlled)","31
+per 1000
+Difference:","56
+per 1000
+26 more per 1000
+( CI 95% 1 fewer
+— 80 more )","Very low
+Due to very serious
+indirectness, and
+serious imprecision
+1","The evidence is very
+uncertain about the effect
+of RACDT on the
+prevalence of malaria"
+"Incidence of
+clinical malaria","Rate ratio 1.3
+(CI 95% 0.94 — 1.79)
+Based on data from
+215,146 participants in 3
+studies. (Randomized
+controlled)","9
+per 1000
+Difference:","12
+per 1000
+3 more per 1000
+( CI 95% 1 fewer
+— 17 more )","Very low
+Due to very serious
+indirectness, and
+serious imprecision
+2","The evidence is very
+uncertain about the effect
+of RACDT on the
+incidence of clinical
+malaria"
+"Parasitemia
+prevalence
+among those
+receiving the
+intervention","Based on data from
+participants in 2 studies.
+(Observational (non-
+randomized))","Results from a difference-in-differences
+analysis of the Brazil study indicate a
+slight increase (by 0.8 percentage(%)-
+points, 3.8%-points, and 2.3%-points at
+30, 60, and 180 days, respectively) in
+parasitemia over time in RACD
+households compared to control
+households. The Zambia study indicated
+a slight decrease (by 0.9%-points and
+2.1%-points at 30 and 90 days after
+RACD, respectively) in parasitemia in
+RACD households, but no control
+households were included.",,"Very low
+Due to serious risk
+of bias, and
+serious
+inconsistency 3","The evidence is very
+uncertain about the effect
+or RACDT on parasite
+prevalence among people
+who participate in RACDT."
+Adverse events,"Based on data from
+participants in 3 studies.
+(Randomized controlled)","Three randomized trials reported on
+adverse events (AEs); however, AEs
+were typically only actively solicited from
+the RDA arm and not from the RACD
+arm. In the Zambia trial comparing
+RACD using artemether-lumefantrine
+(AL) with RDA using dihydroartemisinin-
+piperaquine (DP) (Bridges 2021(16)),
+123 (6.9%) mild AEs occurred in 1,775
+people treated with DP (all resolved); no
+events were reported from the RACD
+arm. In the Namibia trial (Hsiang",,"Very low
+Due to very serious
+risk of bias, serious
+indirectness, and
+very serious
+imprecision 4","The evidence is very
+uncertain about the effect
+of RACDT on adverse
+events."
+,,,,,

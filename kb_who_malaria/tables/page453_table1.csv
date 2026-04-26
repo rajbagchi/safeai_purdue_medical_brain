@@ -1,0 +1,44 @@
+"Clinical question/ PICO
+Population: Malaria-endemic areas
+Intervention: Chloroquine prophylaxis
+Comparator: Placebo",Col1,Col2,Col3,Col4
+"Outcome
+Timeframe",Study results and measurements,"Comparator
+Placebo","Intervention
+Chloroquine prophylaxis","Certainty of the
+evidence
+(Quality of evidence)"
+Clinical malaria,Relative risk,,CI 95%,
+"P. vivax
+parasitaemia","Relative risk 0.02
+(CI 95% 0 — 0.26)
+Based on data from 951
+participants in 1 studies.
+(Randomized controlled)","70
+per 1000
+Difference:","1
+per 1000
+69 fewer per 1000
+( CI 95% 70 fewer —
+52 fewer )","Moderate
+Due to serious
+imprecision 1"
+"Severe anaemia in
+third trimester",Relative risk,,CI 95%,
+"Anaemia in third
+trimester","Relative risk 0.95
+(CI 95% 0.9 — 1.01)
+Based on data from 951
+participants in 1 studies.
+(Randomized controlled)","509
+per 1000
+Difference:","484
+per 1000
+25 fewer per 1000
+( CI 95% 51 fewer — 5
+more )","Moderate
+Due to serious
+imprecision 2"
+Adverse events,Relative risk,,CI 95%,
+"1. Risk of Bias: no serious. This study had a low risk of bias in all domains. Indirectness: no serious. This study was
+conducted in Thailand between 1998 and 2001. Chloroquine was administered as four tablets at enrolment, followed by two",,,,

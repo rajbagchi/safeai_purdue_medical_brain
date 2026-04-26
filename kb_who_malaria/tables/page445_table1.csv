@@ -1,0 +1,87 @@
+"Clinical question/ PICO
+Population: Adults and children with uncomplicated P. vivax malaria (Settings with high transmission of P. vivax
+(chloroquine resistance is also reported as high))
+Intervention: Dihydroartemisinin + piperaquine
+Comparator: Alternative ACTs",Col1,Col2,Col3,Col4
+"Outcome
+Timeframe",Study results and measurements,"Comparator
+Alternative ACT","Intervention
+Dihydroartemisinin +
+piperaquine","Certainty of the
+evidence
+(Quality of evidence)"
+"Effective treatment
+of blood-stage
+parasites as
+assessed by
+recurrent
+parasitaemia before
+day 28","Relative risk 0.2
+(CI 95% 0.08 — 0.49)
+Based on data from 334
+participants in 3 studies.
+(Randomized controlled)","350
+per 1000
+Difference:","70
+per 1000
+280 fewer per 1000
+( CI 95% 322 fewer —
+178 fewer )","Moderate
+Due to serious
+inconsistency 1"
+"Post-treatment
+prophylaxis as
+assessed by
+recurrent
+parasitaemia
+between days 28
+and 42 - with
+primaquine","Relative risk 0.21
+(CI 95% 0.1 — 0.46)
+Based on data from 179
+participants in 2 studies.
+(Randomized controlled)","340
+per 1000
+Difference:","71
+per 1000
+269 fewer per 1000
+( CI 95% 306 fewer —
+184 fewer )","Low
+Due to serious risk of
+bias and serious
+indirectness 2"
+"Post-treatment
+prophylaxis as
+assessed by
+recurrent
+parasitaemia
+between days 28
+and 42 - without
+primaquine","Relative risk 0.4
+(CI 95% 0.14 — 1.1)
+Based on data from 66
+participants in 1 studies.
+(Randomized controlled)","330
+per 1000
+Difference:","132
+per 1000
+198 fewer per 1000
+( CI 95% 284 fewer —
+33 more )","Very low
+Due to serious risk of
+bias, serious
+indirectness and
+serious imprecision 3"
+"1. Risk of Bias: no serious. Allocation was adequately concealed in these studies, resulting in a low risk of bias.
+Inconsistency: serious. There was some clinical heterogeneity between trials. Dihydroartemisinin + piperaquine did not
+perform as well in Papua New Guinea as it has elsewhere; however, it was still superior to artemether + lumefantrine and
+artesunate+sulfadoxine–pyrimethamine. Indirectness: no serious. Studies included adults and children and were conducted
+in areas where transmission is high and chloroquine resistance is well documented. Imprecision: no serious. Both limits of
+the 95% CI suggest an appreciable clinical benefit with dihydroartemisinin + piperaquine.
+2. Risk of Bias: serious. Losses to follow-up were high (> 20% at this time). Inconsistency: no serious. Statistical
+heterogeneity was low. Indirectness: serious. One trial delayed administration of primaquine until day 28; therefore, the
+course will not have been completed until the last day of the trial. The second trial offered unsupervised primaquine to all
+participants on completion of ACT. This reflects normal practice, but it is not clear how many participants completed their
+course. The period of follow-up was not long enough to fully assess this effect; the inevitable relapse might simply be delayed,
+rather than a reduction in clinical episodes.
+3. Risk of Bias: serious. Losses to follow-up were high (> 20% at this time). Indirectness: serious. Only one study assessed",,,,

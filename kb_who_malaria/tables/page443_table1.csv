@@ -1,0 +1,76 @@
+"Clinical question/ PICO
+Population: Adults and children with uncomplicated P. vivax malaria (Malaria-endemic areas in which chloroquine is still
+effective for the first 28 days)
+Intervention: Artemisinin-based combination therapy
+Comparator: Chloroquine",Col1,Col2,Col3,Col4
+"Outcome
+Timeframe",Study results and measurements,"Comparator
+Chloroquine","Intervention
+ACT","Certainty of the
+evidence
+(Quality of evidence)"
+"Remaining
+parasitaemia at 24 h","Relative risk 0.42
+(CI 95% 0.36 — 0.5)
+Based on data from 1,652
+participants in 4 studies.
+(Randomized controlled)","520
+per 1000
+Difference:","218
+per 1000
+302 fewer per 1000
+( CI 95% 333 fewer —
+260 fewer )","High
+1"
+"Still febrile after 24
+h","Relative risk 0.55
+(CI 95% 0.43 — 0.7)
+Based on data from 990
+participants in 2 studies.
+(Randomized controlled)","290
+per 1000
+Difference:","160
+per 1000
+130 fewer per 1000
+( CI 95% 165 fewer —
+87 fewer )","Moderate
+Due to serious
+inconsistency 2"
+"Effective treatment
+of blood-stage
+infection as
+assessed by
+recurrent
+parasitaemia before
+day 28","Relative risk 0.58
+(CI 95% 0.18 — 1.9)
+Based on data from 1,622
+participants in 5 studies.
+(Randomized controlled)","30
+per 1000
+Difference:","17
+per 1000
+13 fewer per 1000
+( CI 95% 25 fewer —
+27 more )","High
+3"
+"Post-treatment
+prophylaxis as
+assessed by
+recurrent
+parasitaemia
+between day 28 and","Relative risk 0.27
+(CI 95% 0.08 — 0.94)
+Based on data from 376
+participants in 1 studies.
+(Randomized controlled)","60
+per 1000
+Difference:","16
+per 1000
+44 fewer per 1000
+( CI 95% 55 fewer — 4
+fewer )","Low
+Due to serious
+indirectness and
+serious imprecision 4"
+,,,,

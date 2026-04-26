@@ -1,0 +1,106 @@
+"Intervention: Mass drug administration (MDA)
+Comparator: no MDA
+Summary
+The systematic review identified two cRCTs and two NRSs in moderate to high transmission settings in four countries (Burkina
+Faso, Gambia, Nigeria and Zambia) assessing the impact of MDA on P. falciparum compared to no MDA (Schneider et al
+unpublished evidence). The cRCTs and NRSs were analysed and GRADEd separately.
+Among the cRCTs, one study conducted four rounds of MDA with DP alone over 15 months and the other conducted one
+round with SP+AS. Among the NRSs, one study provided nine rounds of sulfadoxine-pyrimethamine every 10 weeks over 18
+months and the other provided either chloroquine or amodiaquine in combination with single low dose primaquine every 14
+days for either eight or 15 rounds.
+Meta-analyses of the results from the cRCTs showed little to no effect of MDA on P. falciparum prevalence or incidence or the
+incidence of clinical malaria across all time points with low- to moderate-certainty. The results from the NRSs were more likely
+to show a slight impact of MDA on P. falciparum prevalence at 4 – 12 and 12 – 24 months, with low-certainty evidence. Only
+one cRCT measured adverse events in a subset of both study arms and found a small increase in adverse events in the MDA
+arm but the certainty of the evidence was very low. None of the studies measured markers of drug resistance.",Col1,Col2,Col3,Col4,Col5
+"Outcome
+Timeframe","Study results and
+measurements","Comparator
+no MDA","Intervention
+Mass drug
+administration
+(MDA)","Certainty of the
+evidence
+(Quality of evidence)",Summary
+"1-3 months -
+Prevalence","Relative risk 1.76
+(CI 95% 0.58 — 5.36)
+Based on data from 786
+participants in 1 studies.
+(Randomized controlled)","50
+per 1000
+Difference:","88
+per 1000
+38 more per 1000
+( CI 95% 21 fewer
+— 219 more )","Low
+Due to very
+serious
+imprecision 1","MDA may result in little to
+no difference in P.
+falciparum prevalence
+between 1-3 months"
+"1-3 months -
+Prevalence
+(NRS)","Relative risk 0.85
+(CI 95% 0.78 — 0.93)
+Based on data from
+1,000 participants in 1
+studies. (Observational
+(non-randomized))","723
+per 1000
+Difference:","614
+per 1000
+108 fewer per
+1000
+( CI 95% 159
+fewer — 51 fewer
+)","Very low
+Due to serious risk
+of bias 2","The evidence is very
+uncertain about the effect
+of MDA on P. falciparum
+prevalence between 1-3
+months"
+"1-3 months -
+Incidence of
+parasitaemia","Rate ratio 0.61
+(CI 95% 0.4 — 0.92)
+Based on data from 820
+participants in 1 studies.
+(Randomized controlled)","57
+per 1000","35
+per 1000","Moderate
+Due to serious
+imprecision 3","MDA probably reduces
+the incidence of P.
+falciparum parasitaemia
+between 1-3 months"
+"1-3 months -
+Incidence of
+clinical malaria","Rate ratio 0.41
+(CI 95% 0.04 — 4.42)
+Based on data from
+144,422 participants in 1
+studies. (Randomized
+controlled)","2
+per 1000","1
+per 1000","Low
+Due to very
+serious
+imprecision 4","MDA may result in little to
+no difference in the
+incidence of P. falciparum
+clinical malaria between
+1-3 months"
+"4-12 months -
+Prevalence","Relative risk 1.18
+(CI 95% 0.89 — 1.56)
+Based on data from","483
+per 1000","570
+per 1000","Low
+Due to very
+serious","MDA may result in little to
+no difference in P.
+falciparum prevalence"
+,,,,,

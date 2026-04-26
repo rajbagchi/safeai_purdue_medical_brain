@@ -1,0 +1,46 @@
+"Clinical question/ PICO
+Population: Adults with severe malaria (malaria-endemic countries)
+Intervention: Intramuscular artemether
+Comparator: Intravenous or intramuscular artesunate",Col1,Col2,Col3,Col4
+"Outcome
+Timeframe",Study results and measurements,"Comparator
+Artesunate","Intervention
+Artemether","Certainty of the
+evidence
+(Quality of evidence)"
+Death,"Relative risk 0.55
+(CI 95% 0.34 — 0.92)
+Based on data from 494
+participants in 2 studies.
+(Randomized controlled)","148
+per 1000
+Difference:","81
+per 1000
+67 fewer per 1000
+( CI 95% 98 fewer —
+12 fewer )","Moderate
+Due to serious
+imprecision 1"
+"Neurological
+sequelae at
+discharge",Relative risk,,CI 95%,
+"Coma resolution
+time","Based on data from 494
+participants in 2 studies.
+(Randomized controlled)",Not pooled.,,"Moderate
+Due to serious
+imprecision 2"
+"Parasite clearance
+time","Based on data from 494
+participants in 2 studies.
+(Randomized controlled)",Not pooled.,,"Moderate
+Due to serious
+imprecision 3"
+"Fever clearance
+time","Based on data from 494
+participants in 2 studies.
+(Randomized controlled)",Not pooled.,,"Low
+Due to serious
+imprecision 4"
+"1. Risk of Bias: no serious. The trials were generally well conducted and had a low risk of bias. Inconsistency: no serious.
+There is no statistical heterogeneity. Indirectness: no serious. The two studies were conducted in Thailand and Viet Nam;",,,,

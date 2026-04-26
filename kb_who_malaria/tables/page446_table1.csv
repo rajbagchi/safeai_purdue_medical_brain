@@ -1,0 +1,68 @@
+"Clinical question/ PICO
+Population: Patients with confirmed P. vivax or P. ovale malaria undergoing G6PD testing to inform treatment with
+primaquine to prevent relapses
+Intervention: Qualitative near-patient tests for G6PD
+Comparator: Quality-assured spectrophotometric assay
+Summary
+Key questions
+In patients undergoing G6PD activity testing, how accurate are qualitative near-patient tests for G6PD deficiency compared to
+quantitative spectrophotometric G6PD testing to distinguish patients with G6PD activity below or above the threshold of 30% of
+normal G6PD activity, critical to informing administration of specific regimens of 8-aminoquinolines to prevent relapses of P.
+vivax and P. ovale?
+PIRT
+• Patients with confirmed P. vivax or P. ovale malaria undergoing G6PD testing to inform treatment with primaquine to
+prevent relapses.
+• Index test is qualitative near-patient tests for G6PD.
+• Reference standard is quality assured spectrophotometric assay for G6PD. The reference standard value for the studies
+included in the systematic review was based on the adjusted male median (AMM) G6PD activity (100% G6PD activity)
+calculated for each G6PD spectrophotometric assay. The AMM is defined as the median G6PD activity of all male
+participants after excluding samples with less than 10% of the overall median activity [309]. If biased recruiting were used
+in a study the 100% G6PD activity will be the average of all normal males in the study.
+• Target condition: true positives, false positives, false negatives and true negatives; the overall aim of testing is to prevent
+severe hemolysis due to daily primaquine intake in case of G6PD deficient patients (<30% of normal G6PD activity).
+Summary of evidence from the systematic review (Weeratunga et al., unpublished evidence)",Col1,Col2,Col3,Col4,Col5,Col6,Col7,Col8
+Summary sensitivity and sensitivity of the qualitative tests by threshold,,,,,,,,
+Threshold,Studies,Participants,Cases,"Pooled
+sensitivity
+%
+(95% CI)","Pooled
+specificity
+%
+(95% CI)","Numbers in a cohort of 1000 patients tested
+(95% CI)",,
+,,,,,,"Prevalence
+of 5%","Prevalence
+of 10%","Prevalence
+of 20%"
+30%,19,11456,1103,"94.9
+(89.4, 97.6)","96.2
+(93.5, 97.8)","TP=47
+(45, 49)
+FP=36
+(21, 62)
+FN=3
+(1, 5)
+TN=914
+(888, 929)","TP=95
+(89, 98)
+FP=34
+(20, 58)
+FN=5
+(2, 11)
+TN=866
+(842, 880)","TP=190
+(179, 195)
+FP=30
+(18, 52)
+FN=10
+(5, 21)
+TN=770
+(748, 782)"
+"Espino 2016 (b) and Espino 2016 (c) were excluded from meta-analysis, because Espino 2016 (a), (b), (c) use the same participants. Difference between
+the three studies is that (a) consists of 621 participants assessed by G6PD Qualitative FST, (b) consists of 302 participants assessed by CareStart G6PD
+using venous blood samples and (c) consists of 302 participants assessed by CareStart G6PD using capillary blood samples. Espino 2016 (a) was chosen,
+due to having a more complete sample size.
+Henriques 2018 (b) and (d) were excluded from meta-analysis, because Henriques 2018 (a) and (b) use the same participants, and Henriques 2018 (c) and
+(d) use the same participants. Difference between (a) and (b) is that (a) consists of 505 participants assessed by G6PD Qualitative FST and (b) consists of
+498 participants assessed by CareStart G6PD enrolled in Cambodia. Difference between © and (d) is that (c) consists of 757 participants assessed by G6PD",,,,,,,,
+,,,,,,,,

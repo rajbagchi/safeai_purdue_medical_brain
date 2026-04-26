@@ -1,0 +1,8 @@
+# Modular medical pipeline (pipeline/, run_pipeline.py, scripts/*_report.py)
+numpy>=1.20
+pandas>=1.3
+pymupdf>=1.23
+rank-bm25>=0.2.2
+rapidfuzz>=3.0
+tabulate>=0.9.0
+pdfplumber>=0.10.0

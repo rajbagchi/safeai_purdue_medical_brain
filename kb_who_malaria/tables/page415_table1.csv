@@ -1,0 +1,72 @@
+"Clinical question/ PICO
+Population: Patients with uncomplicated P. falciparum malaria (malaria-endemic settings in Africa)
+Intervention: Dihydroartemisinin + piperaquine once daily for 3 days
+Comparator: Artemether + lumefantrine twice daily for 3 days",Col1,Col2,Col3,Col4
+"Outcome
+Timeframe",Study results and measurements,"Comparator
+Artemether + lumefantrine","Intervention
+Dihydroartemisinin +
+piperaquine","Certainty of the
+evidence
+(Quality of evidence)"
+"Treatment failure -
+PCR unadjusted 1
+28 days","Relative risk 0.34
+(CI 95% 0.3 — 0.39)
+Based on data from 6,200
+participants in 9 studies.
+(Randomized controlled)","230
+per 1000
+Difference:","78
+per 1000
+152 fewer per 1000
+( CI 95% 161 fewer —
+140 fewer )","High
+2"
+"Treatment failure -
+PCR adjusted 3
+28 days","Relative risk 0.42
+(CI 95% 0.29 — 0.62)
+Based on data from 5,417
+participants in 9 studies.
+(Randomized controlled)","30
+per 1000
+Difference:","13
+per 1000
+17 fewer per 1000
+( CI 95% 21 fewer — 11
+fewer )","High
+4"
+"Treatment failure -
+PCR unadjusted 5
+63 days","Relative risk 0.71
+(CI 95% 0.65 — 0.78)
+Based on data from 3,200
+participants in 2 studies.
+(Randomized controlled)","450
+per 1000
+Difference:","320
+per 1000
+130 fewer per 1000
+( CI 95% 157 fewer —
+99 fewer )","High
+6"
+"Treatment failure -
+PCR adjusted 7
+63 days","Relative risk 0.72
+(CI 95% 0.5 — 1.04)
+Based on data from 2,097
+participants in 2 studies.
+(Randomized controlled)","60
+per 1000
+Difference:","43
+per 1000
+17 fewer per 1000
+( CI 95% 30 fewer — 2
+more )","High
+8"
+"1, 5. PCR unadjusted
+2. Risk of Bias: no serious. Trials generally have little risk of bias. Exclusion of studies with high or unclear risk for selection
+bias or detection bias did not change the result.. Inconsistency: no serious. All the trials had similar results, and statistical
+heterogeneity was low.. Indirectness: no serious. The trials were conducted in different transmission settings in east, west
+and southern Africa. Most studies were limited to children.. Imprecision: no serious. The 95% CI implies appreciable benefit,",,,,

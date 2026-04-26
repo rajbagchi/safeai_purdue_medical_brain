@@ -1,0 +1,60 @@
+"Clinical question/ PICO
+Population: Adults and children living in areas with ongoing malaria transmission
+Intervention: Pyrethroid-pyriproxyfen nets for prevention of malaria
+Comparator: Pyrethroid-PBO nets for prevention of malaria
+Summary
+The review [Barker et al unpublished evidence] compared pyrethroid-pyriproxyfen ITNs (alphacypermethrin-pyriproxyfen) to
+pyrethroid-PBO ITNs (permethrin-piperonyl butoxide) in terms of their epidemiological impact against malaria, based on only one
+trial [60] conducted in the United Republic of Tanzania. The review provided high to moderate certainty evidence that incidence of
+clinical malaria was higher at one year after ITN deployment (IRR: 2.04; 95% CI: 1.55–2.68) in areas where pyrethroid-
+pyriproxyfen ITNs were deployed that in those where pyrethroid-PBO ITNs were deployed; there was little or no effect on malaria
+incidence two years post-deployment (IRR: 1.10; 95% CI: 0.95–1.27). The review also provided high- to moderate-certainty
+evidence that pyrethroid-pyriproxyfen only performed as well as, or worse than, pyrethroid-PBO ITNs in reducing prevalence of
+malaria infection at all time points after ITN deployment (12-month RR: 1.13; 95% CI: 0.95–1.33; 18-month RR: 1.17; 95% CI:
+1.07–1.27; 24-month RR: 0.88; 95% CI: 0.75–1.03).",Col1,Col2,Col3,Col4,Col5
+"Outcome
+Timeframe","Study results and
+measurements","Comparator
+Pyrethroid-PBO nets
+for prevention of
+malaria","Intervention
+Pyrethroid-
+pyriproxyfen nets for
+prevention of malaria","Certainty of the
+evidence
+(Quality of evidence)",Summary
+"Malaria case
+incidence
+(overall)","Rate ratio 1.25
+(CI 95% 1.1 — 1.41)
+Based on data from
+61,183 participants in 1
+studies. (Randomized
+controlled)","333
+per 1000
+Difference:","416
+per 1000
+83 more per 1000
+( CI 95% 33 more
+— 137 more )",High,"2000-person years (1
+RCT); Length of time
+observed: <1 month to 24
+months; Based on data
+from at least 61,183
+participants (1 study);
+Absolute calculation
+performed manually as
+GRADEPro cannot
+calculate using IRR."
+"Malaria case
+incidence
+(1-year post-","Rate ratio 2.04
+(CI 95% 1.55 — 2.68)
+Based on data from
+61,183 participants in 1","131
+per 1000","266
+per 1000",High,"2000-person years (1
+RCT) Length of time
+observed: <1 month to 12
+months Based on data"
+,,,,,

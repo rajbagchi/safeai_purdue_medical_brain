@@ -1,0 +1,4 @@
+# FastAPI service (api.py) — install on top of requirements-pipeline.txt
+-r requirements-pipeline.txt
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0

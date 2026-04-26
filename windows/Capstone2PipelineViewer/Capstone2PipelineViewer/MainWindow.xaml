@@ -1,0 +1,105 @@
+<Window x:Class="Capstone2PipelineViewer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SafeAI Pipeline v2 — API client"
+        Height="720" Width="960"
+        MinHeight="520" MinWidth="720"
+        Loaded="MainWindow_OnLoaded"
+        Closing="MainWindow_OnClosing">
+    <Grid Margin="14">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" TextWrapping="Wrap" Margin="0,0,0,10" Foreground="#444"
+                   Text="capstone2 API: from repo root run `pip install -r requirements-api.txt`, then `python -m uvicorn api:app --host 0.0.0.0 --port 8001`. POST /initialize then POST /ask."/>
+
+        <Grid Grid.Row="1" Margin="0,0,0,8">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="120"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="0" Content="API base URL" VerticalAlignment="Center"/>
+            <TextBox x:Name="BaseUrlBox" Grid.Column="1" VerticalContentAlignment="Center"
+                     Text="http://127.0.0.1:8001"/>
+        </Grid>
+
+        <Grid Grid.Row="2" Margin="0,0,0,8">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="120"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="0" Content="Source (preset)" VerticalAlignment="Center"/>
+            <ComboBox x:Name="SourceCombo" Grid.Column="1" VerticalContentAlignment="Center"
+                      SelectionChanged="SourceCombo_OnSelectionChanged"/>
+        </Grid>
+
+        <CheckBox x:Name="ReuseKbCheck" Grid.Row="3" Margin="0,0,0,10" Content="Reuse existing knowledge base on disk (fast) if present" IsChecked="True"/>
+
+        <StackPanel Grid.Row="4" Orientation="Horizontal" Margin="0,0,0,10">
+            <Button x:Name="InitButton" Content="Create index (POST /initialize)" Padding="12,6" MinWidth="220"
+                    Click="InitButton_OnClick"/>
+            <Button x:Name="HealthButton" Content="Health" Padding="12,6" Margin="10,0,0,0" MinWidth="90"
+                    Click="HealthButton_OnClick"/>
+        </StackPanel>
+
+        <Grid Grid.Row="5" Margin="0,0,0,8">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="120"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="0" Content="Test query" VerticalAlignment="Center"/>
+            <ComboBox x:Name="QueryCombo" Grid.Column="1" VerticalContentAlignment="Center"
+                      IsEditable="False" ToolTipService.ShowDuration="60000">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding Caption}" TextTrimming="CharacterEllipsis"
+                                   ToolTip="{Binding Query}"/>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </Grid>
+
+        <StackPanel Grid.Row="6" Orientation="Vertical" Margin="0,0,0,8">
+            <CheckBox x:Name="UseLocalQwenCheck" Content="Use local GGUF for VHT (POST /ask use_local_llm)"
+                      IsChecked="True"
+                      ToolTip="Sends use_local_llm and optional local_llm_gguf. Path must exist on the API host. Install: pip install -r requirements-local-llm.txt"/>
+            <Grid Margin="22,6,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Label Grid.Column="0" Content="GGUF on API host" VerticalAlignment="Center"
+                       ToolTip="File path as seen by Python/uvicorn. Sent as POST /ask local_llm_gguf when non-empty."/>
+                <TextBox x:Name="LocalGgufPathBox" Grid.Column="1" Margin="6,0" VerticalContentAlignment="Center"
+                         ToolTip="Default saved under %LocalAppData%\SafeAICapstone2PipelineViewer\settings.json"/>
+                <Button x:Name="BrowseGgufButton" Grid.Column="2" Content="Browse…" Padding="10,4" Margin="6,0,0,0"
+                        Click="BrowseGguf_OnClick"/>
+            </Grid>
+            <TextBlock x:Name="LocalLlmStatusText" Margin="22,6,0,0" FontSize="11" Foreground="#666"
+                       TextWrapping="Wrap"
+                       Text="Local LLM: click Health to refresh status from API."/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="7" Orientation="Horizontal" Margin="0,0,0,10">
+            <Button x:Name="AskButton" Content="Run query (POST /ask)" Padding="12,6" MinWidth="200"
+                    Click="AskButton_OnClick"/>
+        </StackPanel>
+
+        <DockPanel Grid.Row="8" LastChildFill="True">
+            <TextBlock x:Name="StatusText" DockPanel.Dock="Top" Margin="0,0,0,6" Text="Ready." TextWrapping="Wrap"/>
+            <TextBox x:Name="ResultBox" AcceptsReturn="True" VerticalScrollBarVisibility="Auto"
+                     HorizontalScrollBarVisibility="Auto" TextWrapping="Wrap"
+                     FontFamily="Consolas" FontSize="12"/>
+        </DockPanel>
+    </Grid>
+</Window>

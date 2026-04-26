@@ -1,0 +1,74 @@
+Col0,Col1,Col2,Col3,Col4
+"Outcome
+Timeframe",Study results and measurements,"Comparator
+Quinine","Intervention
+Artesunate","Certainty of the
+evidence
+(Quality of evidence)"
+Death,"Relative risk 0.61
+(CI 95% 0.5 — 0.75)
+Based on data from 1,664
+participants in 5 studies.
+(Randomized controlled)","241
+per 1000
+Difference:","147
+per 1000
+94 fewer per 1000
+( CI 95% 120 fewer —
+60 fewer )","High
+1"
+"Neurological
+sequelae at day 28",Relative risk,,CI 95%,
+"Neurological
+sequelae at
+discharge","Relative risk 2.97
+(CI 95% 0.6 — 14.64)
+Based on data from 1,259
+participants in 1 studies.
+(Randomized controlled)","3
+per 1000
+Difference:","9
+per 1000
+6 more per 1000
+( CI 95% 1 fewer — 41
+more )","Moderate
+Due to serious
+imprecision 2"
+"Hypoglycaemia
+episodes","Relative risk 0.62
+(CI 95% 0.45 — 0.87)
+Based on data from 5,765
+participants in 4 studies.
+(Randomized controlled)","30
+per 1000
+Difference:","19
+per 1000
+11 fewer per 1000
+( CI 95% 16 fewer — 4
+fewer )","High
+3"
+"Time to hospital
+discharge (days)","Based on data from 113
+participants in 2 studies.
+(Randomized controlled)",See comment.,,"Moderate
+Due to serious
+imprecision 4"
+"1. Risk of Bias: no serious. Two of the smaller studies did not conceal allocation, and none of the studies was blinded;
+however, most data are from studies in which allocation was concealed, and the lack of blinding is unlikely to introduce bias for
+an objective outcome such as death. Inconsistency: no serious. The point estimates of all five trials favoured artesunate. No
+significant statistical heterogeneity was detected (I² = 0%). Indirectness: no serious. All five trials were conducted in Asia but
+in a variety of settings (Bangladesh, India, Indonesia, Myanmar, Thailand and Viet Nam), and included age groups > 15–16
+years. Of the four small trials, two did not give the loading dose of quinine, but there was no statistical heterogeneity between
+these two trials and the large multicentre trial, in which the loading dose was given. Imprecision: no serious. Both limits of the
+95% CI imply a clinically important benefit with artesunate.
+2. Risk of Bias: no serious. This trial was unblinded, but the nature of the sequelae makes observer or reporting bias unlikely.
+Inconsistency: no serious. Not applicable, as only one trial. Indirectness: no serious. This trial was conducted in sites in
+four countries in Asia with the standard doses of artesunate and quinine (with loading dose). Of the 10 sequelae that occurred
+in this trial (the additional two were in children), five were psychiatric sequelae, four were a persistent problem with balance,
+and two were hemiparesis. Imprecision: serious. Neurological sequelae appear to be rare after severe malaria in adults;
+however, the 95% CI includes the possibility of clinically important harm with artesunate.
+3. Risk of Bias: no serious. The large multicentre study adequately concealed allocation and can be considered at low risk of
+bias. The smaller trial did not. Neither trial was blinded. Inconsistency: no serious. There was no statistical heterogeneity (I²
+= 0%). Indirectness: no serious. This evidence is from multiple sites in Asia (Bangladesh, India, Indonesia and Myanmar),
+and both trials used standard drug doses. Imprecision: no serious. This result is statistically significantly in favour of
+artesunate. The sample size was adequate to detect a 75% risk reduction with 80% power and 95% confidence..",,,,

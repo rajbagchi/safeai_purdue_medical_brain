@@ -1,0 +1,118 @@
+"Clinical question/ PICO
+Population: Children up to 24 months living in malaria-endemic areas
+Intervention: PMC
+Comparator: No intervention, or alternative medicines",Col1,Col2,Col3,Col4,Col5
+"Outcome
+Timeframe","Study results and
+measurements","Comparator
+No intervention, or
+alternative medicines","Intervention
+PMC","Certainty of the
+evidence
+(Quality of evidence)",Summary
+"Clinical malaria:
+all antimalarials,
+various
+regimens
+9 Critical","Rate ratio 0.7
+(CI 95% 0.62 — 0.8)
+Based on data from
+10,602 participants in 10
+studies. (Randomized
+controlled)
+Follow up: 9-36 months of
+age.",Difference:,"220 fewer per
+1000
+( CI 95% 280 fewer
+— 150 fewer )","Moderate
+Due to serious
+imprecision 1","PMC probably reduces
+incidence of clinical
+malaria."
+"Clinical malaria:
+SP (various
+dosing
+regimens) 2
+9 Critical","Rate ratio 0.78
+(CI 95% 0.69 — 0.88)
+Based on data from 8,774
+participants in 8 studies.
+(Randomized controlled)
+Follow up: 9-36 months of
+age.",Difference:,"160 fewer per
+1000
+230 fewer — 90
+fewer","Moderate
+Due to serious
+imprecision 3","PMC with SP probably
+reduces incidence of
+clinical malaria."
+"Clinical malaria:
+AS-AQ (at 10, 14
+weeks and 9
+months)
+9 Critical","Rate ratio 0.75
+(CI 95% 0.61 — 0.94)
+Based on data from 547
+participants in 1 studies.
+(Randomized controlled)
+Follow up: 24 months of
+age.",Difference:,"330 fewer per
+1000
+( CI 95% 520 fewer
+— 120 fewer )","Moderate
+Due to serious
+imprecision 4","PMC with AS-AQ
+probably reduces
+incidence of clinical
+malaria."
+"Clinical malaria:
+DHAP (monthly
+doses from 6–24
+months of age)
+9 Critical","Rate ratio 0.42
+(CI 95% 0.33 — 0.54)
+Based on data from 147
+participants in 1 studies.
+(Randomized controlled)
+Follow up: 36 months of
+age.",Difference:,"3,720 fewer per
+1000
+( CI 95% 430 fewer
+— 325 fewer )","Moderate
+Due to serious
+imprecision 5","PMC with DHAP probably
+reduces incidence of
+clinical malaria."
+"Clinical malaria:
+SP+AS (at 10, 14
+weeks and 9
+months)
+9 Critical","Rate ratio 0.78
+(CI 95% 0.62 — 0.97)
+Based on data from 508
+participants in 1 studies.
+(Randomized controlled)
+Follow up: up to 24
+months of age.",Difference:,"290 fewer per
+1000
+( CI 95% 510 fewer
+— 40 fewer )",High,"PMC with SP+AS reduces
+incidence of clinical
+malaria."
+"Severe malaria
+incidence: SP
+(various dosing
+regimens)","Rate ratio 0.92
+(CI 95% 0.47 — 1.81)
+Based on data from 1,347
+participants in 2 studies.
+(Randomized controlled)",Difference:,"1 fewer per 1000
+( CI 95% 9 fewer
+— 11 more )","Low
+Due to serious
+inconsistency, Due
+to serious
+imprecision 6","PMC with SP may reduce
+severe malaria incidence."
+,,,,,

@@ -1,0 +1,100 @@
+Col0,Col1,Col2,Col3,Col4
+"Outcome
+Timeframe",Study results and measurements,"Comparator
+Artemether + lumefantrine","Intervention
+Artemisinin +
+naphthoquine","Certainty of the
+evidence
+(Quality of evidence)"
+"Treatment failure on
+day 28 (PCR-
+unadjusted)","Relative risk 1.54
+(CI 95% 0.27 — 8.96)
+Based on data from 297
+participants in 2 studies.
+(Randomized controlled)","10
+per 1000
+Difference:","15
+per 1000
+5 more per 1000
+( CI 95% 7 fewer — 80
+more )","Very low
+Due to serious
+indirectness and very
+serious imprecision 1"
+"Treatment failure on
+day 28 (PCR-
+adjusted)","Relative risk 3.25
+(CI 95% 0.13 — 78.69)
+Based on data from 295
+participants in 2 studies.
+(Randomized controlled)","0
+per 1000
+Difference:","0
+per 1000
+0 fewer per 1000
+( CI 95% 0 fewer — 0
+fewer )","Very low
+Due to serious
+indirectness and very
+serious imprecision 2"
+"Fever clearance:
+fever on day 2","Relative risk 5.9
+(CI 95% 0.73 — 47.6)
+Based on data from 123
+participants in 1 studies.
+(Randomized controlled)","20
+per 1000
+Difference:","118
+per 1000
+98 more per 1000
+( CI 95% 5 fewer —
+932 more )","Very low
+Due to serious
+indirectness and very
+serious imprecision 3"
+"Parasite clearance:
+parasitaemia on day
+2","Relative risk 0.15
+(CI 95% 0.01 — 2.92)
+Based on data from 297
+participants in 2 studies.
+(Randomized controlled)","20
+per 1000
+Difference:","3
+per 1000
+17 fewer per 1000
+( CI 95% 20 fewer —
+38 more )","Very low
+Due to serious
+indirectness and very
+serious imprecision 4"
+"Gametocytaemia on
+day 7","Relative risk 1.97
+(CI 95% 0.18 — 21.14)
+Based on data from 123
+participants in 1 studies.
+(Randomized controlled)","20
+per 1000
+Difference:","39
+per 1000
+19 more per 1000
+( CI 95% 16 fewer —
+403 more )","Very low
+Due to serious
+indirectness and very
+serious imprecision 5"
+"1, 2. Risk of Bias: no serious. One study adequately concealed allocation and thus had a low risk of selection bias. In the
+other study, the process of randomization and allocation concealment was unclear. Inconsistency: no serious. Statistical
+heterogeneity was low. Indirectness: serious. Only two studies, in Benin and Cote d’Ivoire, evaluated this comparison.
+Further studies in additional settings are required before this result can be generalized. Imprecision: very serious.
+Demonstration of non-inferiority at 95% efficacy would require a sample size of 472. Both trials are significantly underpowered.
+3, 5. Risk of Bias: no serious. This study adequately concealed allocation and thus had a low risk of selection bias.
+Indirectness: serious. Study in Cote d’Ivoire. Further studies in additional settings are required before this result can be
+generalized. Imprecision: very serious. This trial was small and the result has a very wide 95% confidence interval, including
+appreciable benefit and harm.
+4. Risk of Bias: no serious. One study adequately concealed allocation and thus had a low risk of selection bias. In the other
+study, the process of randomization and allocation concealment was unclear. Inconsistency: no serious. Statistical
+heterogeneity was low. Indirectness: serious. Only two studies, in Benin and Cote d’Ivoire, evaluated this comparison.
+Further studies in additional settings are required before this result can be generalized. Imprecision: very serious. The result
+has a very wide 95% confidence interval, including appreciable benefit and harm.",,,,

@@ -1,0 +1,124 @@
+"Clinical question/ PICO
+Population: All ages during emergencies or periods of health service disruption
+Intervention: MDA
+Comparator: No MDA, routine service",Col1,Col2,Col3,Col4,Col5
+"Outcome
+Timeframe","Study results and
+measurements","Comparator
+No MDA","Intervention
+MDA","Certainty of the
+evidence
+(Quality of evidence)",Summary
+"All-cause
+mortality: 3
+rounds, <1
+month post-
+MDA, all ages 1
+7 Critical","Relative risk 0.68
+(CI 95% 0.57 — 0.81)
+Based on data from
+7,541,000 participants in
+1 studies. (Observational
+(non-randomized))","81
+per 1 million
+Difference:","55
+per 1 million
+26 fewer per 1
+million
+( CI 95% 35 fewer
+— 15 fewer )","Very low
+Due to serious risk
+of bias 2","We are uncertain about
+the effect of MDA on all-
+cause mortality in all
+ages <1 month post-
+MDA."
+"All-cause
+mortality: 3
+rounds, <1
+month post-
+MDA, <5 years 3
+7 Critical","Relative risk 0.34
+(CI 95% 0.25 — 0.47)
+Based on data from
+1,353,070 participants in
+1 studies. (Observational
+(non-randomized))","250
+per 1 million
+Difference:","85
+per 1 million
+165 fewer per 1
+million
+( CI 95% 187
+fewer — 132
+fewer )","Very low
+Due to serious risk
+of bias 4","We are uncertain about
+the effect of MDA on all-
+cause mortality in
+children <5 years <1
+month post-MDA."
+"All-cause
+mortality: 3
+rounds, 1–3
+months post-
+MDA, all ages 5
+7 Critical","Odds ratio 1.77
+(CI 95% 1.54 — 2.04)
+Based on data from
+11,419,200 participants in
+1 studies. (Observational
+(non-randomized))","51
+per 1 million
+Difference:","87
+per 1 million
+36 more per 1
+million
+( CI 95% 25 more
+— 48 more )","Very low
+Due to serious risk
+of bias, Due to
+serious
+imprecision 6","We are uncertain about
+the effect of MDA on all-
+cause mortality in all
+ages 1–3 months post-
+MDA."
+"All-cause
+mortality: 3
+rounds, 1–3
+months post-
+MDA, <5 years 7
+7 Critical","Odds ratio 1.13
+(CI 95% 0.87 — 1.46)
+Based on data from
+2,008,720 participants in
+1 studies. (Observational
+(non-randomized))","106
+per 1 million
+Difference:","118
+per 1 million
+12 more per 1
+million
+( CI 95% 12 fewer
+— 42 more )","Very low
+Due to serious risk
+of bias and
+serious
+imprecision 8","We are uncertain about
+the effect of MDA on all-
+cause mortality in
+children <5 years 1–3
+months post-MDA."
+"All cause
+hospitalization
+0–1 months","Based on data from
+participants in 1 studies.
+(Observational (non-","The number of all-cause hospital
+admissions decreased by between 5%
+and 21% during the four weeks after",,"Very low
+Due to serious risk
+of bias and","We are uncertain
+whether MDA increases
+or decreases all-cause"
+,,,,,

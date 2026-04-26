@@ -1,0 +1,90 @@
+"Clinical question/ PICO
+Population: People with symptomatic malaria in malaria-endemic areas
+Intervention: Short-course primaquine plus malaria treatment including an artemisinin derivative
+Comparator: Malaria treatment with an artemisinin derivative alone",Col1,Col2,Col3,Col4,Col5
+"Outcome
+Timeframe","Study results and
+measurements","Comparator
+ACT","Intervention
+ACT + primaquine","Certainty of the
+evidence
+(Quality of evidence)",Summary
+"Malaria
+incidence,
+prevalence or
+entomological
+inoculation rate","Relative risk
+Based on data from 0
+participants in 0 studies.",,CI 95%,,
+"People
+infectious to
+mosquitoes","Relative risk
+Based on data from 0
+participants in 0 studies.",,CI 95%,,"Limited observational
+data from mosquito
+feeding studies suggests
+that 0.25 mg/kg bw may
+rapidly reduce the
+infectivity of gametocytes
+to mosquitoes."
+"Participants
+with
+gametocytes on
+microscopy or
+PCR (day 8)
+(dose < 0.4 mg/
+kg bw) 1","Relative risk 0.67
+(CI 95% 0.44 — 1.02)
+Based on data from 223
+participants in 1 studies.
+(Randomized controlled)","34
+per 1000
+Difference:","23
+per 1000
+11 fewer per 1000
+( CI 95% 19 fewer
+— 1 more )","Low
+Due to very
+serious
+imprecision 2",
+"Participants
+with
+gametocytes on
+microscopy or
+PCR (day 8)
+(dose 0.4–0.6
+mg/kg bw) 3","Relative risk 0.3
+(CI 95% 0.16 — 0.56)
+Based on data from 219
+participants in 1 studies.
+(Randomized controlled)","35
+per 1000
+Difference:","11
+per 1000
+24 fewer per 1000
+( CI 95% 29 fewer
+— 15 fewer )","Low
+Due to serious
+imprecision and
+serious
+indirectness 4",
+"Participants
+with
+gametocytes on
+microscopy or
+PCR (day 8)
+(dose > 0.6 mg/
+kg bw) 5","Relative risk 0.29
+(CI 95% 0.22 — 0.37)
+Based on data from
+1,380 participants in 7
+studies. (Randomized
+controlled)","30
+per 1000
+Difference:","9
+per 1000
+21 fewer per 1000
+( CI 95% 23 fewer
+— 19 fewer )","High
+6",
+,,,,,

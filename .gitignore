@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.kb/
+*.egg-info/
+.venv/
+venv/
+windows/**/bin/
+windows/**/obj/

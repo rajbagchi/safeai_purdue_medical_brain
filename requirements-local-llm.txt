@@ -1,0 +1,18 @@
+# Optional: local VHT simplifier (Qwen2.5-3B-Instruct GGUF or similar) via llama-cpp-python.
+# Install after requirements-pipeline.txt / requirements-api.txt.
+#
+# Windows CPU wheels (pick one that matches your Python version):
+#   pip install llama-cpp-python --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
+#
+# Then set:
+#   SAFEAI_USE_LOCAL_LLM=1
+#   SAFEAI_LLM_GGUF=C:\path\to\Qwen2.5-3B-Instruct-Q4_K_M.gguf
+#
+# Optional tuning:
+#   SAFEAI_LLM_N_CTX=4096
+#   SAFEAI_LLM_N_THREADS=4
+#   SAFEAI_LLM_N_GPU_LAYERS=0
+#   SAFEAI_LLM_MAX_TOKENS=2048
+#   SAFEAI_LLM_TEMPERATURE=0.15
+
+llama-cpp-python>=0.2.90

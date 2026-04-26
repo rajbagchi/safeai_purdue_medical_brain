@@ -1,0 +1,79 @@
+"Clinical question/ PICO
+Population: Children aged ≤10 years in areas of seasonal transmission
+Intervention: Full treatment doses of antimalarial medicines monthly during the malaria transmission season
+Comparator: No intervention, or alternative medicines",Col1,Col2,Col3,Col4,Col5
+"Outcome
+Timeframe","Study results and
+measurements","Comparator
+No intervention or
+alternative medicines","Intervention
+SMC","Certainty of the
+evidence
+(Quality of evidence)",Summary
+"Clinical malaria:
+children <5
+years (various
+regimens)
+Per 100 person-
+years
+7 Critical","Rate ratio 0.27
+(CI 95% 0.25 — 0.29)
+Based on data from
+participants in 8 studies.
+(Randomized controlled)",Difference:,"315 fewer per
+1000
+( CI 95% 335 fewer
+— 212 fewer )","Moderate
+Due to serious
+inconsistency 1","SMC probably reduces
+clinical malaria incidence
+in children <5 years."
+"Clinical malaria:
+children <5
+years, 3–4
+cycles, SP+AQ
+7 Critical","Rate ratio 0.28
+(CI 95% 0.26 — 0.31)
+Based on data from
+participants in 4 studies.
+(Randomized controlled)",Difference:,"338 fewer per
+1000
+( CI 95% 374 fewer
+— 314 fewer )","Moderate
+Due to serious
+inconsistency 2","3–4 cycles of SMC with
+SP+AQ probably reduces
+clinical malaria incidence
+in children <5 years."
+"Clinical malaria:
+children <5
+years, 5–6
+cycles, SP+AQ
+7 Critical","Rate ratio 0.22
+(CI 95% 0.18 — 0.25)
+Based on data from
+participants in 2 studies.
+(Randomized controlled)",Difference:,"205 fewer per
+1000
+( CI 95% 233 fewer
+— 168 fewer )","Moderate
+Due to serious
+inconsistency 3","5–6 cycles of SMC with
+SP+AQ probably reduces
+clinical malaria incidence
+in children <5 years."
+"Clinical malaria:
+children <5
+years, 5–6
+cycles, AS-AQ","Rate ratio 0.31
+(CI 95% 0.26 — 0.37)
+Based on data from
+participants in 1 studies.
+(Randomized controlled)",Difference:,"122 fewer per
+1000
+( CI 95% 146 fewer
+— 103 fewer )",High,"5–6 cycles of SMC with
+AS-AQ reduces clinical
+malaria incidence in
+children <5 years."
+,,,,,

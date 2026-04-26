@@ -1,0 +1,66 @@
+"Clinical question/ PICO
+Population: Children with severe malaria (malaria-endemic areas)
+Intervention: Artesunate
+Comparator: Quinine",Col1,Col2,Col3,Col4
+"Outcome
+Timeframe",Study results and measurements,"Comparator
+Quinine","Intervention
+Artesunate","Certainty of the
+evidence
+(Quality of evidence)"
+Death,"Relative risk 0.76
+(CI 95% 0.65 — 0.9)
+Based on data from 5,765
+participants in 4 studies.
+(Randomized controlled)","109
+per 1000
+Difference:","83
+per 1000
+26 fewer per 1000
+( CI 95% 38 fewer — 11
+fewer )","High
+1"
+"Neurological
+sequelae on day 28","Relative risk 1.23
+(CI 95% 0.74 — 2.03)
+Based on data from 4,857
+participants in 1 studies.
+(Randomized controlled)","11
+per 1000
+Difference:","14
+per 1000
+3 more per 1000
+( CI 95% 3 fewer — 11
+more )","Moderate
+Due to serious risk of
+bias 2"
+"Neurological
+sequelae at
+discharge","Relative risk 1.36
+(CI 95% 1.01 — 1.83)
+Based on data from 5,163
+participants in 3 studies.
+(Randomized controlled)","28
+per 1000
+Difference:","38
+per 1000
+10 more per 1000
+( CI 95% 0 fewer — 23
+more )","Moderate
+Due to serious
+imprecision 3"
+"Hypoglycaemia
+episodes","Relative risk 0.62
+(CI 95% 0.45 — 0.87)
+Based on data from 5,765
+participants in 4 studies.
+(Randomized controlled)","30
+per 1000
+Difference:","19
+per 1000
+11 fewer per 1000
+( CI 95% 16 fewer — 4
+fewer )","High
+4"
+Time to hospital,Based on data from 113,See comment.,,Moderate
+,,,,

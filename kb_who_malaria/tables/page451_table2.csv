@@ -1,0 +1,52 @@
+"Clinical question/ PICO
+Population: People aged ≥ 16 years with P. vivax malaria and normal G6PD activity
+Intervention: TQ plus CQ
+Comparator: PQ plus CQ",Col1,Col2,Col3,Col4,Col5
+"Outcome
+Timeframe","Study results and
+measurements","Comparator
+PQ plus CQ","Intervention
+TQ plus CQ","Certainty of the
+evidence
+(Quality of evidence)",Summary
+"P. vivax
+parasitaemia
+during 6
+months of
+follow‐up","Relative risk 1.04
+(CI 95% 0.8 — 1.34)
+Based on data from 747
+participants in 3 studies.","258
+per 1000","268
+per 1000
+( CI 95% 206
+fewer — 345 more
+)","Moderate
+Downgraded one
+level for high
+heterogeneity. 1","TQ is probably as
+effective as PQ for P.
+vivax relapse prevention
+up to 6 months."
+"Serious
+adverse events","Relative risk 1.41
+(CI 95% 0.7 — 2.83)
+Based on data from 747
+participants in 3 studies.","45
+per 1000","64
+per 1000
+( CI 95% 32 fewer
+— 129 more )","Low
+Downgraded by
+two levels for
+serious
+imprecision. Point
+estimate indicated
+41% increase in
+harms, but there
+were wide CI of
+risk estimate. 2","TQ + CQ may cause
+more serious adverse
+events than
+standard‐dose PQ + CQ."
+,,,,,

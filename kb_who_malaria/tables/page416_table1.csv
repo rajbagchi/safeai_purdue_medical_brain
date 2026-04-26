@@ -1,0 +1,61 @@
+"Clinical question/ PICO
+Population: Patients with uncomplicated P. falciparum malaria (malaria-endemic settings in Africa)
+Intervention: Dihydroartemisinin + piperaquine once daily for 3 days
+Comparator: Artesunate + mefloquine once daily for 3 days",Col1,Col2,Col3,Col4
+"Outcome
+Timeframe",Study results and measurements,"Comparator
+Artesunate + mefloquine","Intervention
+Dihydroartemisinin +
+piperaquine","Certainty of the
+evidence
+(Quality of evidence)"
+"Treatment failure -
+PCR unadjusted 1
+28 days","Relative risk 1.02
+(CI 95% 0.28 — 3.72)
+Based on data from 3,487
+participants in 8 studies.
+(Randomized controlled)","20
+per 1000
+Difference:","20
+per 1000
+0 fewer per 1000
+( CI 95% 14 fewer —
+54 more )","High
+Due to serious
+inconsistency 2"
+"Treatment failure -
+PCR adjusted 3
+28 days","Relative risk 0.41
+(CI 95% 0.21 — 0.8)
+Based on data from 3,467
+participants in 8 studies.
+(Randomized controlled)","10
+per 1000
+Difference:","4
+per 1000
+6 fewer per 1000
+( CI 95% 8 fewer — 2
+fewer )","High
+Due to serious
+inconsistency 4"
+"Treatment failure -
+PCR unadjusted 5
+63 days","Relative risk 0.84
+(CI 95% 0.69 — 1.03)
+Based on data from 2,715
+participants in 5 studies.
+(Randomized controlled)","120
+per 1000
+Difference:","101
+per 1000
+19 fewer per 1000
+( CI 95% 37 fewer — 4
+more )","Moderate
+Due to serious
+inconsistency 6"
+"Treatment failure -
+PCR adjusted 7","Relative risk 0.5
+(CI 95% 0.3 — 0.84)",30,15,"High
+Due to serious"
+,,,,

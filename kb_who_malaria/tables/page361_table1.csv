@@ -1,0 +1,77 @@
+"Clinical question/ PICO
+Population: School-aged children
+Intervention: Therapeutic course of an antimalarial medicine
+Comparator: No intervention",Col1,Col2,Col3,Col4,Col5
+"Outcome
+Timeframe","Study results and
+measurements","Comparator
+No intervention","Intervention
+Therapeutic course
+of an antimalarial
+medicine","Certainty of the
+evidence
+(Quality of evidence)",Summary
+"Clinical malaria
+during follow-up
+(6 to 103 weeks)
+8 Critical","Relative risk 0.5
+(CI 95% 0.36 — 0.6)
+Based on data from 1,815
+participants in 4 studies.
+(Randomized controlled)","226
+per 1000
+Difference:","113
+per 1000
+113 fewer per
+1000
+( CI 95% 145 fewer
+— 90 fewer )","Low
+Due to serious risk
+of bias, Due to
+serious
+inconsistency 1","Therapeutic courses of an
+antimalarial medicine may
+decrease clinical malaria
+during follow-up."
+"Anaemia
+8 Critical","Relative risk 0.85
+(CI 95% 0.77 — 0.92)
+Based on data from
+14,940 participants in 11
+studies. (Randomized
+controlled)","279
+per 1000
+Difference:","237
+per 1000
+42 fewer per 1000
+( CI 95% 64 fewer
+— 22 fewer )","Low
+Due to serious risk
+of bias, Due to
+serious
+inconsistency 2","Therapeutic courses of an
+antimalarial medicine may
+decrease anaemia."
+"Parasite
+prevalence","Relative risk 0.46
+(CI 95% 0.4 — 0.53)
+Based on data from
+15,658 participants in 11
+studies. (Randomized
+controlled)","349
+per 1000
+Difference:","160
+per 1000
+189 fewer per
+1000
+( CI 95% 209 fewer
+— 164 fewer )","Low
+Due to serious risk
+of bias, Due to
+serious
+inconsistency 3","Therapeutic courses of an
+antimalarial medicine may
+decrease parasite
+prevalence."
+"1, 2, 3. Risk of Bias: serious. Participants and personnel giving the treatments were not blinded. Inconsistency: serious.
+Unexplained between-study heterogeneity . Indirectness: no serious. Imprecision: no serious. Publication bias: no serious.",,,,,

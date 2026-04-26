@@ -1,0 +1,102 @@
+Col0,Col1,Col2,Col3,Col4
+"Outcome
+Timeframe",Study results and measurements,"Comparator
+Dihydroartemisinin +
+piperaquine","Intervention
+Artemisinin +
+naphthoquine","Certainty of the
+evidence
+(Quality of evidence)"
+"Treatment failure on
+day 28 (PCR-
+unadjusted)","Based on data from 143
+participants in 1 studies.
+(Randomized controlled)","0
+per 1000","0
+per 1000","Very low
+Due to serious
+indirectness and very
+serious imprecision 1"
+"Treatment failure on
+day 28 (PCR-
+adjusted)","Based on data from 143
+participants in 1 studies.
+(Randomized controlled)","0
+per 1000","0
+per 1000","Very low
+Due to serious
+indirectness and very
+serious imprecision 2"
+"Treatment failure on
+day 42 (PCR-
+unadjusted)","Relative risk 0.91
+(CI 95% 0.13 — 6.26)
+Based on data from 143
+participants in 1 studies.
+(Randomized controlled)","30
+per 1000
+Difference:","27
+per 1000
+3 fewer per 1000
+( CI 95% 26 fewer —
+158 more )","Very low
+Due to serious
+indirectness and very
+serious imprecision 3"
+"Treatment failure on
+day 42 (PCR-
+adjusted)","Relative risk 0.19
+(CI 95% 0.01 — 3.82)
+Based on data from 141
+participants in 1 studies.
+(Randomized controlled)","30
+per 1000
+Difference:","6
+per 1000
+24 fewer per 1000
+( CI 95% 30 fewer —
+85 more )","Very low
+Due to serious
+indirectness and very
+serious imprecision 4"
+"Fever clearance:
+fever on day 2","Based on data from 144
+participants in 1 studies.
+(Randomized controlled)","0
+per 1000","0
+per 1000","Very low
+Due to serious
+indirectness and very
+serious imprecision 5"
+"Parasite clearance:
+parasitaemia on day
+2","Relative risk 6.29
+(CI 95% 0.33 — 119.69)
+Based on data from 144
+participants in 1 studies.
+(Randomized controlled)","0
+per 1000","40
+per 1000","Very low
+Due to serious
+indirectness and very
+serious imprecision 6"
+"Gametocytaemia:
+on day 7","Relative risk 1.38
+(CI 95% 0.52 — 3.7)
+Based on data from 144
+participants in 1 studies.
+(Randomized controlled)","80
+per 1000
+Difference:","110
+per 1000
+30 more per 1000
+( CI 95% 38 fewer —
+216 more )","Very low
+Due to serious
+indirectness and very
+serious imprecision 7"
+"1, 2, 3, 4. Risk of Bias: no serious. Although the description of the randomization procedure is vague, this trial is probably at
+low risk of selection bias. Inconsistency: no serious. Indirectness: serious. This comparison has been evaluated in only a
+single setting. Further studies in additional settings are required before this result can be generalized. Imprecision: very
+serious. Demonstration of non-inferiority at 95% efficacy would require a sample size of 472. This trial is significantly
+underpowered.",,,,

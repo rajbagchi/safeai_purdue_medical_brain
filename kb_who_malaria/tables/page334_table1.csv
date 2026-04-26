@@ -1,0 +1,107 @@
+"Clinical question/ PICO
+Population: Adults and children living in areas with ongoing malaria transmission
+Intervention: IRS
+Comparator: ITNs
+Summary
+The systematic review included one RCT from the United Republic of Tanzania that reported the effect of IRS compared to ITNs
+on malaria in an area of intense malaria transmission and another study from India that investigated the epidemiological impact of
+IRS in an area with unstable malaria.
+IRS versus ITNs in areas with intense transmission:
+IRS may reduce malaria incidence compared to ITNs
+(Rate ratio: 0.88; 95% CI (0.78–0.98); one study; low certainty evidence)
+There may be little or no difference between IRS and ITNs in terms of parasite prevalence
+(Risk ratio: 1.06; 95% CI (0.91–1.22); one study; very low certainty evidence)
+IRS versus ITNs in areas with unstable transmission:
+IRS may increase malaria incidence compared to ITNs
+(Rate ratio: 1.48; 95% CI (1.37–1.60); one study; low certainty evidence)
+IRS may increase parasite prevalence compared to ITNs
+(Risk ratio: 1.70; 95% CI (1.18–2.44); one study; low certainty evidence)",Col1,Col2,Col3,Col4,Col5
+"Outcome
+Timeframe","Study results and
+measurements","Comparator
+ITNs","Intervention
+IRS","Certainty of the
+evidence
+(Quality of evidence)",Summary
+"Incidence of
+malaria in
+children under 5
+years in areas of
+intense malaria
+transmission","Relative risk 0.88
+(CI 95% 0.78 — 0.98)
+Based on data from 818
+participants in 1 studies.
+(Randomized controlled)","630
+per 1000
+Difference:","550
+per 1000
+80 fewer per 1000
+( CI 95% 140 fewer
+— 10 fewer )","Low
+Due to serious
+indirectness, Due
+to serious
+imprecision 1","IRS may reduce P.
+falciparum incidence
+compared to no ITNs in
+areas of intense malaria
+transmission."
+"Parasite
+prevalence in
+children under 5
+years in areas of
+intense malaria
+transmission","Relative risk 1.06
+(CI 95% 0.91 — 1.22)
+Based on data from 449
+participants in 1 studies.
+(Randomized controlled)","600
+per 1000
+Difference:","640
+per 1000
+40 more per 1000
+( CI 95% 50 fewer
+— 140 more )","Low
+Due to serious
+indirectness, Due
+to serious
+imprecision 2","IRS may result in little to
+no difference in parasite
+prevalence compared to
+ITNs in areas of intense
+malaria transmission."
+"Incidence of
+malaria in all
+ages in areas of
+unstable malaria","Relative risk 1.48
+(CI 95% 1.37 — 1.6)
+Based on data from
+88,100 participants in 1
+studies. (Randomized
+controlled)","20
+per 1000
+Difference:","30
+per 1000
+10 more per 1000
+( CI 95% 10 more
+— 20 more )","Low
+Due to serious
+imprecision, Due to
+serious
+indirectness 3","IRS may increase
+incidence of malaria
+compared to ITNs in
+areas of unstable malaria."
+"Parasite
+prevalence in all
+ages in areas of","Relative risk 1.7
+(CI 95% 1.18 — 2.44)
+Based on data from","2
+per 1000","3
+per 1000","Low
+Due to serious
+indirectness, Due","IRS may result in little to
+no difference in parasite
+prevalence compared to"
+,,,,,

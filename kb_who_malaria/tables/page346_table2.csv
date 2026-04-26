@@ -1,0 +1,29 @@
+"Clinical question/ PICO
+Population: Adults and children living in areas with ongoing malaria transmission
+Intervention: Screening of windows, ceilings, doors and eaves with untreated material
+Comparator: No house screening
+Summary
+Two cRCTs met the inclusion criteria and were included in the meta-analysis. One trial in Ethiopia assessed screening of windows
+and doors. Another trial in Gambia assessed full screening (screening of eaves, doors and windows), as well as screening of
+ceilings only.
+Screening may reduce clinical malaria incidence caused by Plasmodium falciparum (rate ratio 0.38, 95% CI 0.18 to 0.82; 1 trial,
+low-certainty evidence; Ethiopian study).
+Screening may have a small effect on malaria parasite prevalence, (RR 0.84, 95% CI 0.60 to 1.17; 1 trial; low-certainty
+evidence).
+Screening probably reduces anaemia (RR 0.61, 95% CI 0.42, 0.89; 705 participants; 1 trial, moderate-certainty evidence).
+Screening may reduce the entomological inoculation rate (EIR). In the trial in Gambia, there was a mean difference in EIR between
+the control houses and treatment houses ranging from 0.45 to 1.50 (CIs ranged from -0.46 to 2.41; low-certainty evidence), the
+trial in Ethiopia reported a mean difference in EIR of 4.57, favouring screening (95% CI 3.81 to 5.33; low-certainty evidence).",Col1,Col2,Col3,Col4,Col5
+"Outcome
+Timeframe","Study results and
+measurements","Comparator
+No screening","Intervention
+Screening","Certainty of the
+evidence
+(Quality of evidence)",Summary
+"Clinical malaria
+incidence","Relative risk 0.38
+(CI 95% 0.18 — 0.82)",91,35,"Low
+Due to serious risk","Screening of houses may
+reduce clinical P."
+,,,,,
